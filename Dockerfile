@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM httpd
 ADD ./devops /var/www/html/devops
