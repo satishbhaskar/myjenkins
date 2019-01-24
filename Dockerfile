@@ -1,2 +1,2 @@
 FROM httpd
-ADD ./devops /var/www/html/devops
+ADD ./devops /usr/local/apache2/htdocs/devops
